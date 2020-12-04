@@ -1,0 +1,74 @@
+1.
+no. in multi-layer perception' because more scalars, its higher loss and grads, and harder to accurate.
+
+2.
+with distribute to unigrams, the classifing was not so bad, but of course not like the bigrams.
+ the first 120 lines was this(too long to add all):
+en
+es
+es
+fr
+en
+it
+es
+de
+fr
+en
+de
+de
+en
+fr
+nl
+it
+fr
+fr
+it
+it
+en
+es
+es
+nl
+it
+de
+nl
+es
+en
+fr
+es
+en
+es
+es
+fr
+nl
+en
+nl
+nl
+de
+de
+it
+es
+fr
+fr
+de
+it
+en
+it
+de
+fr
+es
+es
+es
+de
+nl
+it
+it
+en
+de
+
+
+I did ( l, [char for char in t] ) to check it
+
+MLP we didnt
+
+3.
+we didnt MLP
